@@ -1,4 +1,5 @@
 Preconditions
+la connexion est établie
 Etapes à executer 
 Résultat attendus 
 Postconditions
